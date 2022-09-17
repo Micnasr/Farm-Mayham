@@ -9,7 +9,7 @@ At the top you are given which crops the customers are ordering and it is your j
 * water the plants :potable_water:	
 * deliver them while making sure that the vegetables do NOT spoil! :x:	
 
-<p>3D Modeling and Programming was done by me using the Unity3D engine.</p>
+<p>3D Modeling and Programming was done by me using the Unity3D engine and Blender.</p>
 
 Play the game by pressing [HERE](https://micnasr.itch.io/farm-meyham)!
 
